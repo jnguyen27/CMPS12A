@@ -1,0 +1,10 @@
+Errors
+Duy Nguyen
+W1475318
+Lab 6
+1. 2 4 returns hot, which should be cold 
+2. 3 3 returns last weekend, which should be next weekend
+3. 4 (anything) returns I have to buy another books, which should be book
+4. 5 2 needs a period at the end 
+5. 5 -1 is missing the "you sent." at the end
+6. 6 (anything) returns "6 is a valid code", which should be "is not a valid code"
